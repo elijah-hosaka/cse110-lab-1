@@ -2,7 +2,7 @@
 
 My name is **Elijah Hosaka**  
 
-![picture of me]()  
+![picture of me](me.jpeg)  
 
 > A little about me:  
 > - I'm a CS major @ UCSD  
